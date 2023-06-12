@@ -25,7 +25,9 @@ public class Main {
 }
 
 -----
+next: methods with return
 
+then:
 methods:
 get, set
 
