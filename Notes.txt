@@ -1,0 +1,33 @@
+public class mySquare {
+
+    
+    //print out hello
+    public void sayHello() {
+        System.out.println("Hello Yeng!");
+    }
+}
+
+----
+
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+
+        mySquare binggerz = new mySquare();
+
+        binggerz.sayHello();
+        binggerz.sayHello();
+
+    }
+
+    
+}
+
+-----
+
+methods:
+get, set
+
+then:
+constructors
